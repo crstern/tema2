@@ -1,2 +1,2 @@
 # Exercitii HTTP
-![TCP 1] (https://github.com/crstern/tema2/blob/master/http/http2.png)
+![Functie care returneaza adresa IP-ului](https://github.com/crstern/tema2/blob/master/http/http_ex1.png)
