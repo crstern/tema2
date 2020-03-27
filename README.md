@@ -12,6 +12,6 @@ Am modificat server-ul să ridice la pătrat numărul primit ca JSON prin POST.
 #Exercitii UDP
 
 Am pornit udp_server si udp_client pe serverul '0.0.0.0'
-<img align="left" width="50%" src="https://github.com/crstern/tema2/blob/master/udp/udp1-1.png">
-<img align="right"  width="50%" src="https://github.com/crstern/tema2/blob/master/udp/udp1-1.png">
+<img align="left" width="49%" src="https://github.com/crstern/tema2/blob/master/udp/udp1-1.png">
+<img align="right"  width="49%" src="https://github.com/crstern/tema2/blob/master/udp/udp1-2.png">
 
