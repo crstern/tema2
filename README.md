@@ -9,9 +9,10 @@ Am rulat flask in rt1, si am deschis localhost:8001 in browser.
 Am modificat server-ul să ridice la pătrat numărul primit ca JSON prin POST.
 ![](https://github.com/crstern/tema2/blob/master/http/http3.png)
 
-#Exercitii UDP
+# Exercitii UDP
 
 Am pornit udp_server si udp_client pe serverul '0.0.0.0'
-<img align="left" width="49%" src="https://github.com/crstern/tema2/blob/master/udp/udp1-1.png">
-<img align="right"  width="49%" src="https://github.com/crstern/tema2/blob/master/udp/udp1-2.png">
+
+<img src="https://github.com/crstern/tema2/blob/master/udp/udp1-1.png">
+<img src="https://github.com/crstern/tema2/blob/master/udp/udp1-2.png">
 
