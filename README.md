@@ -21,6 +21,17 @@ Am pornit udp_server si udp_client pe serverul '0.0.0.0'
 ![](https://github.com/crstern/tema2/blob/master/udp/udp2-1.png)
 ![](https://github.com/crstern/tema2/blob/master/udp/udp2-2.png)
 
-Am modificat udp_client, ca sa se conectezxe la adresa serverului
+Am modificat udp_client, ca sa se conectezxe la adresa serverului, si am rulat clientul din rt2
 
 ![](https://github.com/crstern/tema2/blob/master/udp/udp4-5.png)
+
+Am utilizat tcpdump pentru a scana mesajele UDP care circula pe portul 10000
+
+![](https://github.com/crstern/tema2/blob/master/udp/udp6.png)
+
+# Exercitii TCP
+
+Am facut conectat rt1 si rt2 cu Handshake
+
+![](https://github.com/crstern/tema2/blob/master/tcp/tcp2-3-4.png)
+
